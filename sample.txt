@@ -1,5 +1,16 @@
-key:'value'
+auto:'BMW'
 {
-    key:'value',
-    key:'value'
+    Rad:'28"';
+    Heck:'Venom';
+
+    motor:'v8'
+    {
+        Zylinder:'GL01';
+        Block:'18L';
+    }
+
+    RICHTW:'1C';
 }
+
+EBX:'Unrund';
+EBJ:'ECK';
